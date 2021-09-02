@@ -1,5 +1,5 @@
 const SERVER_CONSTANTS = {
-  sourceUrl: "mongodb://some.other.db:27017/db",
+  sourceUrl: 'mongodb://user:pass@hostAddress:27017/database',
   destinationUrl: "mongodb://localhost:27017/db"
 }
 
